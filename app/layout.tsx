@@ -6,16 +6,16 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "chronark.com",
-		template: "%s | chronark.com",
+		default: "arinewhouse.com",
+		template: "%s | arinewhouse.com",
 	},
-	description: "Software engineer at upstash.com and founder of planetfall.io",
+	description: "Software engineer building Ai tools",
 	openGraph: {
-		title: "chronark.com",
+		title: "arinewhouse.com",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+			"Software engineer building Ai tools",
+		url: "https://arinewhouse.com",
+		siteName: "arinewhouse.com",
 		images: [
 			{
 				url: "https://chronark.com/og.png",
@@ -37,8 +37,8 @@ export const metadata: Metadata = {
 			"max-snippet": -1,
 		},
 	},
-	twitter: {
-		title: "Chronark",
+	instagram: {
+		title: "arinewhouse",
 		card: "summary_large_image",
 	},
 	icons: {
