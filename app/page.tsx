@@ -29,20 +29,13 @@ export default function Home() {
 				quantity={100}
 			/>
 			<h1 className="z-10 text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
-				ari newhouse
+				Ari Newhouse
 			</h1>
 
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 ">
-					Hi, my name is Ari, I'm building Ai tools that will steal your job.{" "}
-					{/* <Link
-						target="_blank"
-						href="https://upstash.com"
-						className="underline duration-500 hover:text-zinc-300"
-					>
-						Upstash
-					</Link> */}
+					Hi, my name is Ari, I'm building Ai tools that'll steal your job.{" "}
 
 					<br />
 					Checkout my most recent project{" "}
@@ -51,9 +44,8 @@ export default function Home() {
 						href="https://narrativeai.vercel.app"
 						className="underline duration-500 hover:text-zinc-300"
 					>
-						narrativeai.vercel.app
-					</Link>{" "}
-					{/* at night. */}
+						NarrativeAi
+					</Link>
 				</h2>
 			</div>
 		</div>
