@@ -38,7 +38,7 @@ export default function Home() {
 					Hi, my name is Ari, I'm building Ai tools that'll steal your job.{" "}
 
 					<br />
-					Checkout my most recent project{" "}
+					Check out my most recent project{" "}
 					<Link
 						target="_blank"
 						href="https://narrativeai.vercel.app"
