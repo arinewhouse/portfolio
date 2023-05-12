@@ -37,7 +37,7 @@ export const metadata: Metadata = {
 			"max-snippet": -1,
 		},
 	},
-	instagram: {
+	twitter: {
 		title: "arinewhouse",
 		card: "summary_large_image",
 	},
