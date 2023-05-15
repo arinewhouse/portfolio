@@ -41,7 +41,7 @@ export default function Home() {
 					Check out my most recent project{" "}
 					<Link
 						target="_blank"
-						href="https://narrativeai.vercel.app"
+						href="https://www.nrtvai.com/"
 						className="underline duration-500 hover:text-zinc-300"
 					>
 						NarrativeAi
