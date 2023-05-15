@@ -36,9 +36,9 @@ export const metadata: Metadata = {
 			"max-image-preview": "large",
 			"max-snippet": -1,
 		},
-		icons: {
-			shortcut: "/favicon.png",
-		},
+	icons: {
+		shortcut: "/favicon.png",
+	},
 	},
 };
 const inter = Inter({
